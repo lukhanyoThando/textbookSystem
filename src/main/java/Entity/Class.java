@@ -15,7 +15,7 @@ public class Class {
     @Override
     public String toString() {
         return "Class{" +
-                "studCourse=" + studCourse +
+                "studCourse="+""+ studCourse +
                 '}';
     }
 
